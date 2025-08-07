@@ -1,41 +1,37 @@
 
-# 👨‍💻 Sourav Bain
+<h1 align="center">Hi 👋, I'm Sourav</h1>
+<h3 align="center">A passionate student & future software engineer from India</h3>
 
-🌟 Welcome to my GitHub!
-
-🎯 I’m on a mission to crack **JEE** with a strong grip on **Mathematics**  
-💻 Learning to code real-world projects in **C, Python & GitHub**  
-📚 Self-taught + self-motivated = unstoppable!
-
----
-
-## 🔧 Skills & Tools:
-- 🧠 Focused on: JEE Maths, Logical Problem Solving
-- 💻 Programming: C (expert), Python (beginner)
-- 🌐 Tools: Git, GitHub, VS Code
+- 🔭 I’m currently working on **Math & JEE preparation projects**
+- 🌱 I’m currently learning **C, Python, and GitHub**
+- 💬 Ask me about **Mathematics, Git, or Coding**
+- 📫 How to reach me: **sourav.codes.byte@gmail.com**
+- ⚡ Fun fact: I love solving puzzles and building cool things!
 
 ---
 
-## 📈 My Goals:
-- Crack **JEE Main & Advanced**
-- Build amazing coding projects
-- Learn & grow every single day
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourav-codes-byte&show_icons=true&theme=radical" alt="Sourav's GitHub stats" />
+</p>
 
 ---
 
-> 📌 “Big dreams start with small steps — and this is my first!”  
-> — Sourav aka `sourav-codes-byte`
-<!--
-**sourav-codes-byte/sourav-codes-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔥 Streak Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-codes-byte&theme=radical" alt="Sourav's GitHub streak" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧮 Top Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-codes-byte&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
+
+### 📟 Visitor Counter:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sourav-codes-byte&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
