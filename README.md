@@ -1,11 +1,10 @@
-
 <h1 align="center">Hi 👋, I'm Sourav</h1>
 <h3 align="center">A passionate student & future software engineer from India</h3>
 
 - 🔭 I’m currently working on **Math & JEE preparation projects**
 - 🌱 I’m currently learning **C, Python, and GitHub**
 - 💬 Ask me about **Mathematics, Git, or Coding**
-- 📫 How to reach me: **sourav.codes.byte@gmail.com**
+- 📫 How to reach me: **souvikbainsouvikbain@gmail.com**
 - ⚡ Fun fact: I love solving puzzles and building cool things!
 
 ---
